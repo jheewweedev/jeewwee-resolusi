@@ -2,5 +2,4 @@ jeewwee resolusi
 -bisa pakaik git, 
 -bisa membuat mobile app
 -bisa jalanin usaha
-
-- berhenti jadi karyawan swasta
+-bisa coding untuk machine learning
